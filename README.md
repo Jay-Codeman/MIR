@@ -6,7 +6,7 @@ We use the open source dataset Medley-solos-DB in this project.
 * DOI：10.5281/zenodo.3464194
 * URL：[Medley-solos-DB](https://zenodo.org/record/3464194#.Ymyk9ugza3D)
 * Release time：September 29, 2019
-* 
+
 ### Each part
 The functions of each part of the folder are as follows:
 * **Feature extraction：**Is used to extract audio features, and the feature values are saved to test.csv.
