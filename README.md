@@ -10,8 +10,9 @@ We use the open source dataset Medley-solos-DB in this project.
 ### Each part
 The functions of each part of the folder are as follows:
 * **Feature extraction：**Is used to extract audio features, and the feature values are saved to test.csv.
-* **Feature Description：**用于绘制图像，描述不同音色特征对乐器音色的表征程度。
-* **Combined accuracy comparision：**Is used to draw images to describe the degree to which different timbre characteristics characterize the timbre of an instrument.
+* **Feature Description：**Used to draw images to describe the degree to which different timbre characteristics represent the timbre of an instrument.
+* **Combined accuracy comparision：**Is used to draw images to describe the degree to which different timbre. characteristics characterize the timbre of an instrument.
+* **Model accuracy comparison：**Used to compare the accuracy of different classifiers for musical instrument classification.
 
 ### Feature Extraction:
 We use the python open source library `librosa` to extract audio features.The extracted features include:
